@@ -1,8 +1,11 @@
 # Junior Penetration Tester
-This part it's description Junior Penetration Tester
 
-## Goals level
-
-## Blocks
-
-## Resources
+## Содержимое
+- **Блок 1. Linux&Bash**
+- **Блок 2. Сети и Wireshark**
+- **Блок 3. Python**
+- **Блок 4. Веб-уязвимости**
+- **Блок 5. Windows**
+- **Блок 6. AI-грамотность для безопасника**
+- **Блок 7. WEB.New**
+- **Блок 8. Облачные азы**

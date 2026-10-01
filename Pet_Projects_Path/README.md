@@ -1,5 +1,5 @@
 # Pet_Projects
-This part it's description tools and scripts pets projects
+Список планируемых проектов
 
 ## Blocks
 - **[Junior Level](Junior/)**

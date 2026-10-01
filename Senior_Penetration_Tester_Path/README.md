@@ -1,8 +1,8 @@
 # Senior Penetration Tester
-This part it's description Senior Penetration Tester
 
-## Goals level
-
-## Blocks
-
-## Resources
+## Содержимое
+- **Блок 1. Разработка эксплойтов и продвинутый реверс**
+- **Блок 2. Облачная безопасность**
+- **Блок 3. Архитектура, софт-скиллы**
+- **Блок 4. AI Red Teaming**
+- **Блок 5. Zero Trust & Service Mesh**

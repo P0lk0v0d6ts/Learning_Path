@@ -1,8 +1,7 @@
 # Pet_Projects
-
-
-## Goals level
+This part it's description tools and scripts pets projects
 
 ## Blocks
-
-## Resources
+- **[Junior Level](Junior/)**
+- **[Middle Level](Middle/)**
+- **[Senior Level](Senior/)**

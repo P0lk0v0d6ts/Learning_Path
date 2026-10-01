@@ -1,0 +1,1 @@
+же на этапе Junior добавь 1 месяц на AWS free tier: создай IAM пользователя, S3 бакет, пойми политики (s3:GetObject, s3:ListBucket). Простейшая ошибка — публичный бакет. Найди такой сам с помощью bucket_finder или GrayHat Warfare.

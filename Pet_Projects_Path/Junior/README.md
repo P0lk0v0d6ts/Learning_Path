@@ -1,4 +1,4 @@
-# Senior projects
+# Junior projects
 
 
 ## Goals level
